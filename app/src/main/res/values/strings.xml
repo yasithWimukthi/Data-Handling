@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Data Handling</string>
+    <string name="user_name">User Name</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="select_all">Select All</string>
+    <string name="add">ADD</string>
+    <string name="sign_in">Sign In</string>
+    <string name="delete">DELETE</string>
+    <string name="update">update</string>
+</resources>
